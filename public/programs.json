@@ -1,0 +1,978 @@
+[
+  {
+    "id": 1,
+    "category": "Cloud Infrastructure",
+    "name": "AWS Activate (Founders)",
+    "credits": "$1,000",
+    "url": "https://aws.amazon.com/activate/activate-landing/",
+    "eligibility": "Bootstrapped, active website, <10 yrs old"
+  },
+  {
+    "id": 2,
+    "category": "Cloud Infrastructure",
+    "name": "AWS Activate (AI)",
+    "credits": "Up to $300,000",
+    "url": "https://aws.amazon.com/startups/credits",
+    "eligibility": "AI startups via partners"
+  },
+  {
+    "id": 3,
+    "category": "Cloud Infrastructure",
+    "name": "Google Cloud for Startups (Start)",
+    "credits": "$2,000",
+    "url": "https://cloud.google.com/startup/apply",
+    "eligibility": "Pre-funded startups"
+  },
+  {
+    "id": 4,
+    "category": "Cloud Infrastructure",
+    "name": "Google Cloud for Startups (AI)",
+    "credits": "Up to $350,000",
+    "url": "https://cloud.google.com/startup/apply",
+    "eligibility": "AI core product, Vertex/Gemini"
+  },
+  {
+    "id": 5,
+    "category": "Cloud Infrastructure",
+    "name": "Microsoft for Startups",
+    "credits": "$1K-$5K (bootstrap) / $150K (backed)",
+    "url": "https://www.microsoft.com/en-us/startups",
+    "eligibility": "Under $10M raised, pre-Series C"
+  },
+  {
+    "id": 6,
+    "category": "Cloud Infrastructure",
+    "name": "DigitalOcean Hatch",
+    "credits": "Up to $100,000",
+    "url": "https://do.co/hatch",
+    "eligibility": "Early-stage, 5 biz day review"
+  },
+  {
+    "id": 7,
+    "category": "Cloud Infrastructure",
+    "name": "Oracle for Startups",
+    "credits": "$500 + 70% discount on all OCI",
+    "url": "https://www.oracle.com/cloud/oracle-for-startups/",
+    "eligibility": "Any stage, any funding level"
+  },
+  {
+    "id": 8,
+    "category": "Cloud Infrastructure",
+    "name": "IBM Startup",
+    "credits": "$1K-$10K/mo for 1 year ($12K-$120K)",
+    "url": "https://www.founderpass.com/partners/ibm",
+    "eligibility": "Revenue under $15M"
+  },
+  {
+    "id": 9,
+    "category": "Cloud Infrastructure",
+    "name": "Cloudflare for Startups",
+    "credits": "$5K-$250K",
+    "url": "https://www.cloudflare.com/forstartups/",
+    "eligibility": "Tiered by funding level"
+  },
+  {
+    "id": 10,
+    "category": "Cloud Infrastructure",
+    "name": "Akamai/Linode Rise",
+    "credits": "$500-$120K (3-year program)",
+    "url": "https://www.linode.com/startup-programs/",
+    "eligibility": "<7 yrs old, active users or revenue"
+  },
+  {
+    "id": 11,
+    "category": "Cloud Infrastructure",
+    "name": "OVHcloud Startup",
+    "credits": "EUR 10K-100K",
+    "url": "https://startup.ovhcloud.com/en/",
+    "eligibility": "Tech startups, 7-day response"
+  },
+  {
+    "id": 12,
+    "category": "Cloud Infrastructure",
+    "name": "Scaleway Startup",
+    "credits": "EUR 1K-36K",
+    "url": "https://www.scaleway.com/en/startup-program/",
+    "eligibility": "Early-stage, H100 GPU access"
+  },
+  {
+    "id": 13,
+    "category": "Cloud Infrastructure",
+    "name": "Alibaba Cloud Catalyst",
+    "credits": "Up to $120,000 (2 yr validity)",
+    "url": "https://www.alibabacloud.com/en/startup/cloudcreditredemption",
+    "eligibility": "Submit business proposal"
+  },
+  {
+    "id": 14,
+    "category": "Cloud Infrastructure",
+    "name": "Vultr VIP Startup",
+    "credits": "$100K credits + 35% discount",
+    "url": "https://discover.vultr.com/startup-program",
+    "eligibility": "Series A+ funded"
+  },
+  {
+    "id": 15,
+    "category": "Cloud Infrastructure",
+    "name": "OpenMetal eXcelerator",
+    "credits": "Up to $100,000",
+    "url": "https://openmetal.io/programs/startup-excelerator-program-cloud-credits/",
+    "eligibility": "IaaS startups"
+  },
+  {
+    "id": 16,
+    "category": "Cloud Infrastructure",
+    "name": "Backblaze Flamethrower",
+    "credits": "B2 Storage credits",
+    "url": "https://www.backblaze.com/startups",
+    "eligibility": "Early-stage"
+  },
+  {
+    "id": 17,
+    "category": "Cloud Infrastructure",
+    "name": "Render Startup",
+    "credits": "$5K-$100K",
+    "url": "https://render.com/startups",
+    "eligibility": "Via accelerator/VC partner"
+  },
+  {
+    "id": 18,
+    "category": "Cloud Infrastructure",
+    "name": "Railway Startup",
+    "credits": "$5,000",
+    "url": "https://railway.app",
+    "eligibility": "High-growth, limited batches"
+  },
+  {
+    "id": 19,
+    "category": "AI / ML / GPU Compute",
+    "name": "Modal Startups",
+    "credits": "Credits (amount varies)",
+    "url": "https://modal.com/startups",
+    "eligibility": "AI startups"
+  },
+  {
+    "id": 20,
+    "category": "AI / ML / GPU Compute",
+    "name": "OpenAI for Startups",
+    "credits": "$2,500 API credits",
+    "url": "https://openai.com/startups/",
+    "eligibility": "VC referral needed"
+  },
+  {
+    "id": 21,
+    "category": "AI / ML / GPU Compute",
+    "name": "OpenAI Grove",
+    "credits": "$50,000 API credits",
+    "url": "https://openai.com/index/openai-grove/",
+    "eligibility": "Competitive, cohort-based, SF"
+  },
+  {
+    "id": 22,
+    "category": "AI / ML / GPU Compute",
+    "name": "Together AI Accelerator",
+    "credits": "$15K-$50K",
+    "url": "https://www.together.ai/startup-accelerator",
+    "eligibility": "AI-native startups"
+  },
+  {
+    "id": 23,
+    "category": "AI / ML / GPU Compute",
+    "name": "Mistral Mistralship",
+    "credits": "$30,000",
+    "url": "https://mistral.ai/ (startup program)",
+    "eligibility": "<7 yrs, pre-Series B"
+  },
+  {
+    "id": 24,
+    "category": "AI / ML / GPU Compute",
+    "name": "NVIDIA Inception",
+    "credits": "Unlocks $100K AWS + $150K Nebius + 30% off DGX",
+    "url": "https://www.nvidia.com/en-us/startups/",
+    "eligibility": "1+ dev, website, incorporated, <10 yrs"
+  },
+  {
+    "id": 25,
+    "category": "AI / ML / GPU Compute",
+    "name": "Nebius AI (standalone)",
+    "credits": "$5K + up to $100K discounts",
+    "url": "https://nebius.com/startups/apply",
+    "eligibility": "AI startups"
+  },
+  {
+    "id": 26,
+    "category": "AI / ML / GPU Compute",
+    "name": "Nebius AI Lift (via NVIDIA)",
+    "credits": "$150K credits + $10K inference",
+    "url": "https://nebius.com/startups/apply",
+    "eligibility": "NVIDIA Inception members"
+  },
+  {
+    "id": 27,
+    "category": "AI / ML / GPU Compute",
+    "name": "RunPod Startup",
+    "credits": "Up to $50K (1:1 match)",
+    "url": "https://www.runpod.io/startup-program",
+    "eligibility": "Venture-backed, $5K-$25K/mo spend"
+  },
+  {
+    "id": 28,
+    "category": "AI / ML / GPU Compute",
+    "name": "CoreWeave Accelerator",
+    "credits": "GPU credits (amount varies)",
+    "url": "https://www.coreweave.com/",
+    "eligibility": "AI/ML-focused"
+  },
+  {
+    "id": 29,
+    "category": "AI / ML / GPU Compute",
+    "name": "Vast.ai GPUs for Startups",
+    "credits": "Startup pricing",
+    "url": "https://vast.ai/startup",
+    "eligibility": "GPU compute needs"
+  },
+  {
+    "id": 30,
+    "category": "AI / ML / GPU Compute",
+    "name": "Lambda Labs Research",
+    "credits": "Up to $5,000 GPU credits",
+    "url": "https://lambda.ai/research",
+    "eligibility": "Research affiliation preferred"
+  },
+  {
+    "id": 31,
+    "category": "AI / ML / GPU Compute",
+    "name": "Pinecone Startup",
+    "credits": "Credits for vector DB",
+    "url": "https://www.pinecone.io/ (check startup program)",
+    "eligibility": "AI startups"
+  },
+  {
+    "id": 32,
+    "category": "AI / ML / GPU Compute",
+    "name": "Weaviate Startup",
+    "credits": "Vector DB credits",
+    "url": "https://weaviate.io/ (check startup program)",
+    "eligibility": "AI startups"
+  },
+  {
+    "id": 33,
+    "category": "AI / ML / GPU Compute",
+    "name": "Qdrant for Startups",
+    "credits": "Vector DB credits",
+    "url": "https://qdrant.tech/qdrant-for-startups/",
+    "eligibility": "AI startups"
+  },
+  {
+    "id": 34,
+    "category": "AI / ML / GPU Compute",
+    "name": "Cerebras Startup Deal",
+    "credits": "Up to $22,500",
+    "url": "https://www.cerebras.ai/startup-deal",
+    "eligibility": "Startups (+ free 1M tokens/day)"
+  },
+  {
+    "id": 35,
+    "category": "AI / ML / GPU Compute",
+    "name": "Fireworks AI Startup",
+    "credits": "Credits",
+    "url": "https://fireworks.ai/startup-program",
+    "eligibility": "AI startups"
+  },
+  {
+    "id": 36,
+    "category": "AI / ML / GPU Compute",
+    "name": "Perplexity for Startups",
+    "credits": "$5K API + 6 mo Enterprise Pro",
+    "url": "https://www.perplexity.ai/startups",
+    "eligibility": "Startups"
+  },
+  {
+    "id": 37,
+    "category": "AI / ML / GPU Compute",
+    "name": "OpenRouter Startup",
+    "credits": "$5K universal credits (300+ models)",
+    "url": "https://openrouter.ai/startup-program",
+    "eligibility": "Startups"
+  },
+  {
+    "id": 38,
+    "category": "AI / ML / GPU Compute",
+    "name": "ElevenLabs Startup Grants",
+    "credits": "Voice AI credits",
+    "url": "https://elevenlabs.io/startup-grants",
+    "eligibility": "AI startups"
+  },
+  {
+    "id": 39,
+    "category": "AI / ML / GPU Compute",
+    "name": "Anyscale/Ray Startup",
+    "credits": "Up to $20,000",
+    "url": "https://www.anyscale.com/startup",
+    "eligibility": "AI/ML startups"
+  },
+  {
+    "id": 40,
+    "category": "AI / ML / GPU Compute",
+    "name": "Databricks for Startups",
+    "credits": "Credits",
+    "url": "https://www.databricks.com/product/startups",
+    "eligibility": "Data/AI startups"
+  },
+  {
+    "id": 41,
+    "category": "AI / ML / GPU Compute",
+    "name": "Snowflake for Startups",
+    "credits": "Credits",
+    "url": "https://www.snowflake.com/en/why-snowflake/startup-program/",
+    "eligibility": "Data startups"
+  },
+  {
+    "id": 42,
+    "category": "AI / ML / GPU Compute",
+    "name": "xAI (Grok)",
+    "credits": "$25 signup + $150/mo (data sharing)",
+    "url": "https://x.ai/",
+    "eligibility": "Free tier available"
+  },
+  {
+    "id": 43,
+    "category": "SaaS & Developer Tools",
+    "name": "Vercel for Startups",
+    "credits": "Up to $30,000",
+    "url": "https://vercel.com/startups/credits",
+    "eligibility": "Startups"
+  },
+  {
+    "id": 44,
+    "category": "SaaS & Developer Tools",
+    "name": "Vercel AI Accelerator",
+    "credits": "$850K+ combined credits",
+    "url": "https://vercel.com/ai-accelerator",
+    "eligibility": "Pre-seed to Series A, AI product"
+  },
+  {
+    "id": 45,
+    "category": "SaaS & Developer Tools",
+    "name": "Supabase for Startups",
+    "credits": "Credits (check program)",
+    "url": "https://supabase.com/solutions/startups",
+    "eligibility": "Startups"
+  },
+  {
+    "id": 46,
+    "category": "SaaS & Developer Tools",
+    "name": "MongoDB for Startups",
+    "credits": "Up to $5,000 Atlas credits",
+    "url": "https://www.mongodb.com/solutions/startups",
+    "eligibility": "All stages, 12 mo"
+  },
+  {
+    "id": 47,
+    "category": "SaaS & Developer Tools",
+    "name": "Redis for Startups",
+    "credits": "Credits",
+    "url": "https://redis.io/startups/",
+    "eligibility": "Startups"
+  },
+  {
+    "id": 48,
+    "category": "SaaS & Developer Tools",
+    "name": "PlanetScale for Startups",
+    "credits": "Credits",
+    "url": "https://planetscale.com/startups",
+    "eligibility": "Startups"
+  },
+  {
+    "id": 49,
+    "category": "SaaS & Developer Tools",
+    "name": "Datadog for Startups",
+    "credits": "$30K-$100K",
+    "url": "https://www.datadoghq.com/partner/datadog-for-startups/",
+    "eligibility": "Via referral partner"
+  },
+  {
+    "id": 50,
+    "category": "SaaS & Developer Tools",
+    "name": "PostHog for Startups",
+    "credits": "$50,000",
+    "url": "https://posthog.com/startups",
+    "eligibility": "Startups"
+  },
+  {
+    "id": 51,
+    "category": "SaaS & Developer Tools",
+    "name": "Retool for Startups",
+    "credits": "Up to $60,000",
+    "url": "https://retool.com/startups",
+    "eligibility": "Startups"
+  },
+  {
+    "id": 52,
+    "category": "SaaS & Developer Tools",
+    "name": "Segment Startup",
+    "credits": "$50,000",
+    "url": "https://segment.com/industry/startups/",
+    "eligibility": "Startups"
+  },
+  {
+    "id": 53,
+    "category": "SaaS & Developer Tools",
+    "name": "Notion for Startups",
+    "credits": "3-6 months free Business + AI",
+    "url": "https://www.notion.com/startups",
+    "eligibility": "<100 employees, new customer"
+  },
+  {
+    "id": 54,
+    "category": "SaaS & Developer Tools",
+    "name": "HubSpot for Startups",
+    "credits": "Up to 90% off Year 1",
+    "url": "https://www.hubspot.com/startups",
+    "eligibility": "<5 yrs old, Seed-Series A"
+  },
+  {
+    "id": 55,
+    "category": "SaaS & Developer Tools",
+    "name": "Intercom Early Stage",
+    "credits": "Discount/credits",
+    "url": "https://www.intercom.com/early-stage",
+    "eligibility": "Early-stage"
+  },
+  {
+    "id": 56,
+    "category": "SaaS & Developer Tools",
+    "name": "Zendesk for Startups",
+    "credits": "6 months free",
+    "url": "https://www.zendesk.com/startups/apply/",
+    "eligibility": "Startups"
+  },
+  {
+    "id": 57,
+    "category": "SaaS & Developer Tools",
+    "name": "Freshworks for Startups",
+    "credits": "Up to $10,000",
+    "url": "https://www.freshworks.com/company/partners/startup-program/",
+    "eligibility": "Startups"
+  },
+  {
+    "id": 58,
+    "category": "SaaS & Developer Tools",
+    "name": "Salesforce Startup",
+    "credits": "Credits/discounts",
+    "url": "https://startups.my.site.com/s/",
+    "eligibility": "Startups"
+  },
+  {
+    "id": 59,
+    "category": "SaaS & Developer Tools",
+    "name": "Amplitude for Startups",
+    "credits": "Credits",
+    "url": "https://amplitude.com/startups",
+    "eligibility": "Startups"
+  },
+  {
+    "id": 60,
+    "category": "SaaS & Developer Tools",
+    "name": "Mixpanel for Startups",
+    "credits": "Credits",
+    "url": "https://mixpanel.com/releases/startups",
+    "eligibility": "Startups"
+  },
+  {
+    "id": 61,
+    "category": "SaaS & Developer Tools",
+    "name": "Algolia for Startups",
+    "credits": "$10,000 for 12 months",
+    "url": "https://www.algolia.com/industries-and-solutions/startups/",
+    "eligibility": "<3 yrs, <$5M funding"
+  },
+  {
+    "id": 62,
+    "category": "SaaS & Developer Tools",
+    "name": "Auth0 for Startups",
+    "credits": "Credits",
+    "url": "https://auth0.com/startups",
+    "eligibility": "Startups"
+  },
+  {
+    "id": 63,
+    "category": "SaaS & Developer Tools",
+    "name": "Clerk for Startups",
+    "credits": "Credits",
+    "url": "https://clerk.com/startups",
+    "eligibility": "Startups"
+  },
+  {
+    "id": 64,
+    "category": "SaaS & Developer Tools",
+    "name": "Webflow for Startups",
+    "credits": "Credits",
+    "url": "https://webflow.com/solutions/startups/startups-application",
+    "eligibility": "Startups"
+  },
+  {
+    "id": 65,
+    "category": "SaaS & Developer Tools",
+    "name": "GitHub for Startups",
+    "credits": "Enterprise free",
+    "url": "https://github.com/enterprise/startups",
+    "eligibility": "Startups"
+  },
+  {
+    "id": 66,
+    "category": "SaaS & Developer Tools",
+    "name": "GitLab for Startups",
+    "credits": "Credits",
+    "url": "https://about.gitlab.com/solutions/startups/",
+    "eligibility": "Startups"
+  },
+  {
+    "id": 67,
+    "category": "SaaS & Developer Tools",
+    "name": "Atlassian for Startups",
+    "credits": "Free Cloud suite",
+    "url": "https://www.atlassian.com/software/views/startups-request",
+    "eligibility": "Startups"
+  },
+  {
+    "id": 68,
+    "category": "SaaS & Developer Tools",
+    "name": "JetBrains Startup",
+    "credits": "50% off (up to 10 subs, 5 yrs)",
+    "url": "https://www.jetbrains.com/lp/leaflets-gdc/startups/",
+    "eligibility": "Startups"
+  },
+  {
+    "id": 69,
+    "category": "SaaS & Developer Tools",
+    "name": "Miro Startup",
+    "credits": "Credits",
+    "url": "https://miro.com/startups/apply/",
+    "eligibility": "Startups"
+  },
+  {
+    "id": 70,
+    "category": "SaaS & Developer Tools",
+    "name": "Zapier for Startups",
+    "credits": "Credits",
+    "url": "https://zapier.com/startups",
+    "eligibility": "Startups"
+  },
+  {
+    "id": 71,
+    "category": "SaaS & Developer Tools",
+    "name": "n8n Startup Plan",
+    "credits": "Discounted pricing",
+    "url": "https://n8n.io/pricing/startup-plan/",
+    "eligibility": "Startups"
+  },
+  {
+    "id": 72,
+    "category": "SaaS & Developer Tools",
+    "name": "Twilio for Startups",
+    "credits": "$5K-$10K",
+    "url": "https://www.twilio.com/en-us/solutions/startups",
+    "eligibility": "<$200M raised"
+  },
+  {
+    "id": 73,
+    "category": "SaaS & Developer Tools",
+    "name": "Shopify Partners",
+    "credits": "Dev stores + revenue share",
+    "url": "https://www.shopify.com/partners",
+    "eligibility": "Partners/agencies"
+  },
+  {
+    "id": 74,
+    "category": "Banking & Finance (Startup Perks)",
+    "name": "Mercury",
+    "credits": "Fee-free banking + $5K AWS + partner perks",
+    "url": "https://mercury.com/perks",
+    "eligibility": "US-based business"
+  },
+  {
+    "id": 75,
+    "category": "Banking & Finance (Startup Perks)",
+    "name": "Brex",
+    "credits": "$350K+ partner perks",
+    "url": "https://www.brex.com/solutions/startups",
+    "eligibility": "$50K+ in bank"
+  },
+  {
+    "id": 76,
+    "category": "Banking & Finance (Startup Perks)",
+    "name": "Ramp",
+    "credits": "$350K+ partner perks",
+    "url": "https://ramp.com/startups",
+    "eligibility": "Opening Ramp account"
+  },
+  {
+    "id": 77,
+    "category": "Cap Table & Legal",
+    "name": "Carta Launch",
+    "credits": "Free cap table ($2,800 value)",
+    "url": "https://carta.com/equity-management/launch/",
+    "eligibility": "<25 equity holders, <$1M funding"
+  },
+  {
+    "id": 78,
+    "category": "Cap Table & Legal",
+    "name": "Pulley",
+    "credits": "Free cap table",
+    "url": "https://pulley.com/",
+    "eligibility": "<25 stakeholders"
+  },
+  {
+    "id": 79,
+    "category": "Cap Table & Legal",
+    "name": "AngelList Stack",
+    "credits": "Free starter + $2.5K OpenAI credits",
+    "url": "https://www.angellist.com/startups/incorporation",
+    "eligibility": "<$1M raised"
+  },
+  {
+    "id": 80,
+    "category": "HR & Payroll",
+    "name": "Deel for Startups",
+    "credits": "Free HR (<200 employees)",
+    "url": "https://www.deel.com/segments/startups/",
+    "eligibility": "<200 employees"
+  },
+  {
+    "id": 81,
+    "category": "HR & Payroll",
+    "name": "Rippling for Startups",
+    "credits": "6 months free",
+    "url": "https://www.rippling.com/startups",
+    "eligibility": "Venture-backed"
+  },
+  {
+    "id": 82,
+    "category": "HR & Payroll",
+    "name": "Gusto",
+    "credits": "Free until first payroll + promos",
+    "url": "https://gusto.com/product/solutions/size/start-up-payroll",
+    "eligibility": "Any startup"
+  },
+  {
+    "id": 83,
+    "category": "Other Notable",
+    "name": "Zoom for Startups",
+    "credits": "1 yr Business Plus (25 seats)",
+    "url": "https://www.zoom.com/en/lp/zoom-for-startups/",
+    "eligibility": "Pre-Seed to Series A"
+  },
+  {
+    "id": 84,
+    "category": "Other Notable",
+    "name": "Canva for Startups",
+    "credits": "Business plan",
+    "url": "https://www.canva.com/solutions/startups/",
+    "eligibility": "Teams/businesses"
+  },
+  {
+    "id": 85,
+    "category": "Other Notable",
+    "name": "1Password",
+    "credits": "Free for startups",
+    "url": "Check via aggregators",
+    "eligibility": "Startups"
+  },
+  {
+    "id": 86,
+    "category": "PRIORITY TIER 2: Accelerator Perk Programs (Massive Value)",
+    "name": "YC Startup School",
+    "credits": "$30K+ in deals",
+    "url": "https://www.startupschool.org/",
+    "eligibility": "FREE, open to anyone"
+  },
+  {
+    "id": 87,
+    "category": "PRIORITY TIER 2: Accelerator Perk Programs (Massive Value)",
+    "name": "Sequoia Arc",
+    "credits": "200+ perks ($500K+ NVIDIA alone)",
+    "url": "https://sequoiacap.com/arc/apply/",
+    "eligibility": "Pre-seed/seed, bi-annual"
+  },
+  {
+    "id": 88,
+    "category": "PRIORITY TIER 2: Accelerator Perk Programs (Massive Value)",
+    "name": "a16z Speedrun",
+    "credits": "$5M software credits + $1M invest",
+    "url": "https://speedrun.a16z.com/",
+    "eligibility": "Early-stage, competitive"
+  },
+  {
+    "id": 89,
+    "category": "PRIORITY TIER 2: Accelerator Perk Programs (Massive Value)",
+    "name": "Antler",
+    "credits": "$4M+ in credits",
+    "url": "https://www.antler.co/",
+    "eligibility": "Join Antler sprint"
+  },
+  {
+    "id": 90,
+    "category": "PRIORITY TIER 2: Accelerator Perk Programs (Massive Value)",
+    "name": "500 Global FounderHub",
+    "credits": "$1M+ credits",
+    "url": "https://500.co/founders",
+    "eligibility": "Rolling admissions"
+  },
+  {
+    "id": 91,
+    "category": "PRIORITY TIER 2: Accelerator Perk Programs (Massive Value)",
+    "name": "Techstars Perks",
+    "credits": "$4M+ (300+ perks)",
+    "url": "https://perks.techstars.com/",
+    "eligibility": "Techstars network"
+  },
+  {
+    "id": 92,
+    "category": "PRIORITY TIER 2: Accelerator Perk Programs (Massive Value)",
+    "name": "NVIDIA Inception",
+    "credits": "Unlocks credits from partners",
+    "url": "https://www.nvidia.com/en-us/startups/",
+    "eligibility": "FREE to join, rolling"
+  },
+  {
+    "id": 93,
+    "category": "PRIORITY TIER 2: Accelerator Perk Programs (Massive Value)",
+    "name": "Fin.ai Startup Pack",
+    "credits": "$500K+",
+    "url": "https://fin.ai/startup-pack",
+    "eligibility": "MVP/prototype required"
+  },
+  {
+    "id": 94,
+    "category": "Free Aggregators (Sign Up Immediately)",
+    "name": "CloudCredits.io",
+    "credits": "$2M+ (open source)",
+    "url": "https://cloudcredits.io/",
+    "eligibility": ""
+  },
+  {
+    "id": 95,
+    "category": "Free Aggregators (Sign Up Immediately)",
+    "name": "StartupPerks.com",
+    "credits": "100+ deals",
+    "url": "https://startup-perks.com/",
+    "eligibility": ""
+  },
+  {
+    "id": 96,
+    "category": "Free Aggregators (Sign Up Immediately)",
+    "name": "StartupPerks.xyz",
+    "credits": "$1M+",
+    "url": "https://www.startupperks.xyz/",
+    "eligibility": ""
+  },
+  {
+    "id": 97,
+    "category": "Free Aggregators (Sign Up Immediately)",
+    "name": "Credit for Startups",
+    "credits": "$2M+",
+    "url": "https://creditforstartups.com/",
+    "eligibility": ""
+  },
+  {
+    "id": 98,
+    "category": "Free Aggregators (Sign Up Immediately)",
+    "name": "Startup Credits",
+    "credits": "100+ programs",
+    "url": "https://startupcredits.io/",
+    "eligibility": ""
+  },
+  {
+    "id": 99,
+    "category": "Free Aggregators (Sign Up Immediately)",
+    "name": "Startup Stash",
+    "credits": "400+ tools",
+    "url": "https://startupstash.com/",
+    "eligibility": ""
+  },
+  {
+    "id": 100,
+    "category": "Free Aggregators (Sign Up Immediately)",
+    "name": "F6S",
+    "credits": "Varies",
+    "url": "https://www.f6s.com/",
+    "eligibility": ""
+  },
+  {
+    "id": 101,
+    "category": "Free Aggregators (Sign Up Immediately)",
+    "name": "Startup Savant",
+    "credits": "Curated deals",
+    "url": "https://startupsavant.com/startup-resources/deals",
+    "eligibility": ""
+  },
+  {
+    "id": 102,
+    "category": "Free Aggregators (Sign Up Immediately)",
+    "name": "Techdella",
+    "credits": "$500K+",
+    "url": "https://techdella.com/founder-perks/",
+    "eligibility": ""
+  },
+  {
+    "id": 103,
+    "category": "Free Aggregators (Sign Up Immediately)",
+    "name": "Founderly Perks",
+    "credits": "$100K+",
+    "url": "https://founderly.com/perks",
+    "eligibility": ""
+  },
+  {
+    "id": 104,
+    "category": "Free Aggregators (Sign Up Immediately)",
+    "name": "FreeStartupDeals",
+    "credits": "Guides + links",
+    "url": "https://www.freestartupdeals.com/",
+    "eligibility": ""
+  },
+  {
+    "id": 105,
+    "category": "Free Aggregators (Sign Up Immediately)",
+    "name": "Newline.co",
+    "credits": "$1.3M+ guide",
+    "url": "https://www.newline.co/tools/ai-startups-free-credits",
+    "eligibility": ""
+  },
+  {
+    "id": 106,
+    "category": "Free Aggregators (Sign Up Immediately)",
+    "name": "MVP Foundry Report",
+    "credits": "$1M+ guide",
+    "url": "https://www.mvpfoundry.com/reports/1-million-free-startup-credits",
+    "eligibility": ""
+  },
+  {
+    "id": 107,
+    "category": "Paid Aggregators (High ROI)",
+    "name": "Secret",
+    "credits": "Free/$149 yr",
+    "url": "500+ deals, $100M+ saved",
+    "eligibility": "https://www.joinsecret.com/"
+  },
+  {
+    "id": 108,
+    "category": "Paid Aggregators (High ROI)",
+    "name": "FounderPass",
+    "credits": "Free/$99 yr",
+    "url": "$3M+",
+    "eligibility": "https://www.founderpass.com/join"
+  },
+  {
+    "id": 109,
+    "category": "Paid Aggregators (High ROI)",
+    "name": "NachoNacho",
+    "credits": "Free tier",
+    "url": "300+ vendors",
+    "eligibility": "https://nachonacho.com/"
+  },
+  {
+    "id": 110,
+    "category": "Paid Aggregators (High ROI)",
+    "name": "StartGround",
+    "credits": "Free/$premium",
+    "url": "$1.5M+",
+    "eligibility": "https://startground.com/"
+  },
+  {
+    "id": 111,
+    "category": "Paid Aggregators (High ROI)",
+    "name": "RocketHub",
+    "credits": "$99 lifetime",
+    "url": "$3M+",
+    "eligibility": "https://www.rockethub.com/startup-perks"
+  },
+  {
+    "id": 112,
+    "category": "Paid Aggregators (High ROI)",
+    "name": "Founder Lift",
+    "credits": "$19 lifetime",
+    "url": "Curated",
+    "eligibility": "https://www.founderlift.space/"
+  },
+  {
+    "id": 113,
+    "category": "Paid Aggregators (High ROI)",
+    "name": "GetAIPerks",
+    "credits": "Paid sub",
+    "url": "$7M+ guides",
+    "eligibility": "https://www.getaiperks.com/en"
+  },
+  {
+    "id": 114,
+    "category": "Paid Aggregators (High ROI)",
+    "name": "OpenVC Perks",
+    "credits": "$99/mo or $299/yr",
+    "url": "$2M+",
+    "eligibility": "https://www.openvc.app/perks"
+  },
+  {
+    "id": 115,
+    "category": "Paid Aggregators (High ROI)",
+    "name": "FounderPerks",
+    "credits": "Free/$99 yr",
+    "url": "30+ deals",
+    "eligibility": "https://founderperks.co/"
+  },
+  {
+    "id": 116,
+    "category": "Paid Aggregators (High ROI)",
+    "name": "Product Hunt Founder Club",
+    "credits": "$60/mo",
+    "url": "$100K savings",
+    "eligibility": "Via startupcredits.io"
+  },
+  {
+    "id": 117,
+    "category": "TOTAL POTENTIAL VALUE",
+    "name": "18",
+    "credits": "$500K - $1.5M+",
+    "url": "",
+    "eligibility": ""
+  },
+  {
+    "id": 118,
+    "category": "TOTAL POTENTIAL VALUE",
+    "name": "27",
+    "credits": "$300K - $600K+",
+    "url": "",
+    "eligibility": ""
+  },
+  {
+    "id": 119,
+    "category": "TOTAL POTENTIAL VALUE",
+    "name": "31",
+    "credits": "$100K - $300K+",
+    "url": "",
+    "eligibility": ""
+  },
+  {
+    "id": 120,
+    "category": "TOTAL POTENTIAL VALUE",
+    "name": "12",
+    "credits": "$350K+ in partner deals",
+    "url": "",
+    "eligibility": ""
+  },
+  {
+    "id": 121,
+    "category": "TOTAL POTENTIAL VALUE",
+    "name": "8",
+    "credits": "$1M - $5M+",
+    "url": "",
+    "eligibility": ""
+  },
+  {
+    "id": 122,
+    "category": "TOTAL POTENTIAL VALUE",
+    "name": "23",
+    "credits": "Discovery/access to above",
+    "url": "",
+    "eligibility": ""
+  }
+]

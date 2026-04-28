@@ -1,0 +1,40 @@
+functionsDirectory = "/root/startup-credits-directory/netlify/functions"
+functionsDirectoryOrigin = "config-v1"
+headersOrigin = "config"
+plugins = []
+redirects = []
+
+[build]
+publish = "/root/startup-credits-directory/dist"
+publishOrigin = "config"
+commandOrigin = "ui"
+command = "npm run build"
+functions = "/root/startup-credits-directory/netlify/functions"
+
+[build.environment]
+GHL_API_KEY = "pit-8dce7ec1-3272-430b-a03a-16a47cdf4b79"
+GHL_LOCATION_ID = "OxzVVdeTJpdTmfCkccT2"
+
+[build.processing]
+
+[build.processing.css]
+
+[build.processing.html]
+
+[build.processing.images]
+
+[build.processing.js]
+
+[build.services]
+
+[functions]
+
+[functions."*"]
+
+[[headers]]
+for = "/*"
+
+[headers.values]
+X-Frame-Options = "DENY"
+X-Content-Type-Options = "nosniff"
+Referrer-Policy = "strict-origin-when-cross-origin"
