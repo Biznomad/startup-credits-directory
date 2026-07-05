@@ -1058,5 +1058,14 @@
     "url": "https://runwayml.com/product/builders",
     "eligibility": "Pre-Seed through Series C, bootstrapped OK",
     "verified": "2026-07-05"
+  },
+  {
+    "id": 128,
+    "category": "AI / ML / GPU Compute",
+    "name": "Baseten AI Startup Program",
+    "credits": "Up to $25,000 (Dedicated Inference/Training) or up to $2,500 (Model APIs)",
+    "url": "https://www.baseten.co/startup-program/",
+    "eligibility": "AI-first, Seed-Series A, founded <5 yrs, net-new Baseten customer",
+    "verified": "2026-07-05"
   }
 ]
