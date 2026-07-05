@@ -11,9 +11,10 @@
     "id": 2,
     "category": "Cloud Infrastructure",
     "name": "AWS Activate (AI)",
-    "credits": "Up to $300,000",
+    "credits": "Up to $200,000 (Activate Portfolio, via Activate Provider Org ID)",
     "url": "https://aws.amazon.com/startups/credits",
-    "eligibility": "AI startups via partners"
+    "eligibility": "Backed by a qualifying VC/accelerator/incubator, or via an Activate Provider Org ID (e.g. NVIDIA Inception)",
+    "verified": "2026-07-05"
   },
   {
     "id": 3,
@@ -21,23 +22,26 @@
     "name": "Google Cloud for Startups (Start)",
     "credits": "$2,000",
     "url": "https://cloud.google.com/startup/apply",
-    "eligibility": "Pre-funded startups"
+    "eligibility": "Bootstrapped/pre-funded startups",
+    "verified": "2026-07-05"
   },
   {
     "id": 4,
     "category": "Cloud Infrastructure",
     "name": "Google Cloud for Startups (AI)",
-    "credits": "Up to $350,000",
+    "credits": "Up to $350,000 (Scale-AI tier)",
     "url": "https://cloud.google.com/startup/apply",
-    "eligibility": "AI core product, Vertex/Gemini"
+    "eligibility": "AI core product, Vertex/Gemini, institutional funding required",
+    "verified": "2026-07-05"
   },
   {
     "id": 5,
     "category": "Cloud Infrastructure",
     "name": "Microsoft for Startups",
-    "credits": "$1K-$5K (bootstrap) / $150K (backed)",
+    "credits": "Progressive unlock up to $150,000",
     "url": "https://www.microsoft.com/en-us/startups",
-    "eligibility": "Under $10M raised, pre-Series C"
+    "eligibility": "No VC required, pre-Series C",
+    "verified": "2026-07-05"
   },
   {
     "id": 6,
@@ -53,7 +57,10 @@
     "name": "Oracle for Startups",
     "credits": "$500 + 70% discount on all OCI",
     "url": "https://www.oracle.com/cloud/oracle-for-startups/",
-    "eligibility": "Any stage, any funding level"
+    "eligibility": "Any stage, any funding level",
+    "status": "closed",
+    "status_note": "Official page is a stale 2022 marketing shell; no active startup credit offer, only the standard $300 OCI free trial.",
+    "verified": "2026-07-05"
   },
   {
     "id": 8,
@@ -67,17 +74,19 @@
     "id": 9,
     "category": "Cloud Infrastructure",
     "name": "Cloudflare for Startups",
-    "credits": "$5K-$250K",
+    "credits": "$10K (bootstrapped) / $100K (<$5M raised + partner VC) / $350K ($5M+ raised + partner VC)",
     "url": "https://www.cloudflare.com/forstartups/",
-    "eligibility": "Tiered by funding level"
+    "eligibility": "Tiered by funding level",
+    "verified": "2026-07-05"
   },
   {
     "id": 10,
     "category": "Cloud Infrastructure",
     "name": "Akamai/Linode Rise",
-    "credits": "$500-$120K (3-year program)",
-    "url": "https://www.linode.com/startup-programs/",
-    "eligibility": "<7 yrs old, active users or revenue"
+    "credits": "Up to $120,000 (year 1 of 3-year program)",
+    "url": "https://www.akamai.com/cloud/start-ups/rise",
+    "eligibility": "<7 yrs old, direct application",
+    "verified": "2026-07-05"
   },
   {
     "id": 11,
@@ -90,10 +99,11 @@
   {
     "id": 12,
     "category": "Cloud Infrastructure",
-    "name": "Scaleway Startup",
-    "credits": "EUR 1K-36K",
+    "name": "Scaleway Founders",
+    "credits": "EUR 1,000",
     "url": "https://www.scaleway.com/en/startup-program/",
-    "eligibility": "Early-stage, H100 GPU access"
+    "eligibility": "<5 yrs old, <50 employees",
+    "verified": "2026-07-05"
   },
   {
     "id": 13,
@@ -122,10 +132,11 @@
   {
     "id": 16,
     "category": "Cloud Infrastructure",
-    "name": "Backblaze Flamethrower",
-    "credits": "B2 Storage credits",
+    "name": "Backblaze Startup Program",
+    "credits": "Up to $100,000 in B2 Storage credits",
     "url": "https://www.backblaze.com/startups",
-    "eligibility": "Early-stage"
+    "eligibility": "Early-stage, explicitly bootstrapped-friendly (no VC required)",
+    "verified": "2026-07-05"
   },
   {
     "id": 17,
@@ -141,7 +152,10 @@
     "name": "Railway Startup",
     "credits": "$5,000",
     "url": "https://railway.app",
-    "eligibility": "High-growth, limited batches"
+    "eligibility": "High-growth, limited batches",
+    "status": "closed",
+    "status_note": "startup.railway.app now returns 404; program appears discontinued.",
+    "verified": "2026-07-05"
   },
   {
     "id": 19,
@@ -171,9 +185,10 @@
     "id": 22,
     "category": "AI / ML / GPU Compute",
     "name": "Together AI Accelerator",
-    "credits": "$15K-$50K",
+    "credits": "Up to $15,000 (Build tier)",
     "url": "https://www.together.ai/startup-accelerator",
-    "eligibility": "AI-native startups"
+    "eligibility": "AI-native startups, <=$5M raised",
+    "verified": "2026-07-05"
   },
   {
     "id": 23,
@@ -197,7 +212,8 @@
     "name": "Nebius AI (standalone)",
     "credits": "$5K + up to $100K discounts",
     "url": "https://nebius.com/startups/apply",
-    "eligibility": "AI startups"
+    "eligibility": "Requires $5M+ raised, applied for via a venture partner",
+    "verified": "2026-07-05"
   },
   {
     "id": 26,
@@ -242,10 +258,11 @@
   {
     "id": 31,
     "category": "AI / ML / GPU Compute",
-    "name": "Pinecone Startup",
-    "credits": "Credits for vector DB",
-    "url": "https://www.pinecone.io/ (check startup program)",
-    "eligibility": "AI startups"
+    "name": "Pinecone for Startups",
+    "credits": "Free Standard tier + credits",
+    "url": "https://www.pinecone.io/startup-program",
+    "eligibility": "Series A or earlier, <100 employees",
+    "verified": "2026-07-05"
   },
   {
     "id": 32,
@@ -285,7 +302,10 @@
     "name": "Perplexity for Startups",
     "credits": "$5K API + 6 mo Enterprise Pro",
     "url": "https://www.perplexity.ai/startups",
-    "eligibility": "Startups"
+    "eligibility": "Startups",
+    "status": "closed",
+    "status_note": "Application typeform is closed; program not currently accepting applicants.",
+    "verified": "2026-07-05"
   },
   {
     "id": 37,
@@ -299,9 +319,10 @@
     "id": 38,
     "category": "AI / ML / GPU Compute",
     "name": "ElevenLabs Startup Grants",
-    "credits": "Voice AI credits",
+    "credits": "33M characters (~$4,000 value)",
     "url": "https://elevenlabs.io/startup-grants",
-    "eligibility": "AI startups"
+    "eligibility": "<25 employees",
+    "verified": "2026-07-05"
   },
   {
     "id": 39,
@@ -309,15 +330,17 @@
     "name": "Anyscale/Ray Startup",
     "credits": "Up to $20,000",
     "url": "https://www.anyscale.com/startup",
-    "eligibility": "AI/ML startups"
+    "eligibility": "AI/ML startups",
+    "verified": "2026-07-05"
   },
   {
     "id": 40,
     "category": "AI / ML / GPU Compute",
     "name": "Databricks for Startups",
-    "credits": "Credits",
+    "credits": "Up to $200,000",
     "url": "https://www.databricks.com/product/startups",
-    "eligibility": "Data/AI startups"
+    "eligibility": "Data/AI startups",
+    "verified": "2026-07-05"
   },
   {
     "id": 41,
@@ -397,7 +420,8 @@
     "name": "PostHog for Startups",
     "credits": "$50,000",
     "url": "https://posthog.com/startups",
-    "eligibility": "Startups"
+    "eligibility": "Company must be under 2 years old",
+    "verified": "2026-07-05"
   },
   {
     "id": 51,
@@ -413,7 +437,10 @@
     "name": "Segment Startup",
     "credits": "$50,000",
     "url": "https://segment.com/industry/startups/",
-    "eligibility": "Startups"
+    "eligibility": "Startups",
+    "status": "closed",
+    "status_note": "Segment's standalone startup program page is gone; traffic redirects to Twilio.",
+    "verified": "2026-07-05"
   },
   {
     "id": 53,
@@ -466,18 +493,20 @@
   {
     "id": 59,
     "category": "SaaS & Developer Tools",
-    "name": "Amplitude for Startups",
-    "credits": "Credits",
+    "name": "Amplitude Startup Scholarship",
+    "credits": "1 year free Growth plan",
     "url": "https://amplitude.com/startups",
-    "eligibility": "Startups"
+    "eligibility": "<$10M raised and <20 employees",
+    "verified": "2026-07-05"
   },
   {
     "id": 60,
     "category": "SaaS & Developer Tools",
     "name": "Mixpanel for Startups",
-    "credits": "Credits",
-    "url": "https://mixpanel.com/releases/startups",
-    "eligibility": "Startups"
+    "credits": "First year free Startup Plan (~$145,000 value)",
+    "url": "https://mixpanel.com/startups-apply",
+    "eligibility": "<$8M raised and <5 yrs old, no VC required",
+    "verified": "2026-07-05"
   },
   {
     "id": 61,
@@ -509,7 +538,10 @@
     "name": "Webflow for Startups",
     "credits": "Credits",
     "url": "https://webflow.com/solutions/startups/startups-application",
-    "eligibility": "Startups"
+    "eligibility": "Startups",
+    "status": "closed",
+    "status_note": "Closed to new applications as of June 30, 2026.",
+    "verified": "2026-07-05"
   },
   {
     "id": 65,
@@ -541,15 +573,17 @@
     "name": "JetBrains Startup",
     "credits": "50% off (up to 10 subs, 5 yrs)",
     "url": "https://www.jetbrains.com/lp/leaflets-gdc/startups/",
-    "eligibility": "Startups"
+    "eligibility": "<5 yrs old",
+    "verified": "2026-07-05"
   },
   {
     "id": 69,
     "category": "SaaS & Developer Tools",
     "name": "Miro Startup",
-    "credits": "Credits",
+    "credits": "$500-$1,000 credit",
     "url": "https://miro.com/startups/apply/",
-    "eligibility": "Startups"
+    "eligibility": "Startups",
+    "verified": "2026-07-05"
   },
   {
     "id": 70,
@@ -573,7 +607,10 @@
     "name": "Twilio for Startups",
     "credits": "$5K-$10K",
     "url": "https://www.twilio.com/en-us/solutions/startups",
-    "eligibility": "<$200M raised"
+    "eligibility": "<$200M raised",
+    "status": "closed",
+    "status_note": "Twilio confirms: \"We do not offer additional credits to startups at this time.\"",
+    "verified": "2026-07-05"
   },
   {
     "id": 73,
@@ -613,7 +650,8 @@
     "name": "Carta Launch",
     "credits": "Free cap table ($2,800 value)",
     "url": "https://carta.com/equity-management/launch/",
-    "eligibility": "<25 equity holders, <$1M funding"
+    "eligibility": "<25 equity holders, <$1M funding",
+    "verified": "2026-07-05"
   },
   {
     "id": 78,
@@ -741,7 +779,8 @@
     "name": "Fin.ai Startup Pack",
     "credits": "$500K+",
     "url": "https://fin.ai/startup-pack",
-    "eligibility": "MVP/prototype required"
+    "eligibility": "<50 employees, MVP/prototype required",
+    "verified": "2026-07-05"
   },
   {
     "id": 94,
@@ -974,5 +1013,50 @@
     "credits": "Discovery/access to above",
     "url": "",
     "eligibility": ""
+  },
+  {
+    "id": 123,
+    "category": "Cloud Infrastructure",
+    "name": "Google Cloud for Startups (Scale)",
+    "credits": "Up to $200,000",
+    "url": "https://cloud.google.com/startup/apply",
+    "eligibility": "Funded startups (below Scale-AI institutional-funding threshold)",
+    "verified": "2026-07-05"
+  },
+  {
+    "id": 124,
+    "category": "AI / ML / GPU Compute",
+    "name": "Claude for Startups (Anthropic)",
+    "credits": "$25,000-$100,000+ in API credits",
+    "url": "https://claude.com/programs/startups",
+    "eligibility": "Institutional equity funding, founded <4 yrs, no prior Anthropic startup credits (program itself open to any early-stage founder)",
+    "verified": "2026-07-05"
+  },
+  {
+    "id": 125,
+    "category": "AI / ML / GPU Compute",
+    "name": "Deepgram AI Startup Program",
+    "credits": "Up to $100,000 in API credits (12 months)",
+    "url": "https://deepgram.com/startup-program",
+    "eligibility": "AI builder or early-stage startup, in production or launching within 6 months",
+    "verified": "2026-07-05"
+  },
+  {
+    "id": 126,
+    "category": "AI / ML / GPU Compute",
+    "name": "AssemblyAI Startup Program",
+    "credits": "Up to 200,000 hours in free credits",
+    "url": "https://www.assemblyai.com/startup-program",
+    "eligibility": "Early-stage, bootstrapped through Series C+",
+    "verified": "2026-07-05"
+  },
+  {
+    "id": 127,
+    "category": "AI / ML / GPU Compute",
+    "name": "Runway Builders Program",
+    "credits": "Up to 500,000 API credits",
+    "url": "https://runwayml.com/product/builders",
+    "eligibility": "Pre-Seed through Series C, bootstrapped OK",
+    "verified": "2026-07-05"
   }
 ]
