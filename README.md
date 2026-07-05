@@ -1,73 +1,102 @@
-# React + TypeScript + Vite
+# Certified Translations — 3D Cinematic Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A premium, immersive 3D animated website for certified translation services. Built with React 19, Three.js, @react-three/fiber, GSAP, and Lenis smooth scroll.
 
-Currently, two official plugins are available:
+## Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+[View Deployed Site](https://j2j5frojhpvfg.kimi.page)
 
-## React Compiler
+## Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+### 1. Kinetic Ink Typography (Hero)
+- Fullscreen WebGL fluid simulation using ping-pong render targets
+- FBM noise-driven ink physics with mouse interaction
+- Custom GLSL shaders for fluid advection, diffusion, and display composition
+- "CERTIFIED" title with transparent stroke revealing ink through letterforms
 
-## Expanding the ESLint configuration
+### 2. 3D Cylindrical Scroll Gallery (Precision Process)
+- Scroll-driven Three.js cylinder rotation via GSAP ScrollTrigger
+- Images arranged on a virtual cylinder that rotates as user scrolls
+- Pinned section with 300vh scroll distance
+- Synchronized text transitions for each slide
 
-If you are developing a production application, we recommend updating the configuration to enable type-aware lint rules:
+### 3. Quantum Treadmill Belt (Language Matrix)
+- Infinite looping 3D text grid using @react-three/fiber
+- 56 animated language/industry labels in teal and gold
+- Glassmorphism info card overlay with backdrop-filter blur
 
-```js
-export default defineConfig([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
+### 4. Radial Card Ripple (Testimonials)
+- 8 testimonial cards arranged in a circular flower pattern
+- GSAP-powered entrance animations
+- Click-to-expand with detail view showing quotes and ratings
 
-      // Remove tseslint.configs.recommended and replace with this
-      tseslint.configs.recommendedTypeChecked,
-      // Alternatively, use this for stricter rules
-      tseslint.configs.strictTypeChecked,
-      // Optionally, add this for stylistic rules
-      tseslint.configs.stylisticTypeChecked,
+### 5. Elasto-Card Accordion (Pricing)
+- 3-tier pricing with spring-physics expansion
+- Chromatic color transitions on expand
+- Sticky sidebar with editorial imagery
 
-      // Other configs...
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
+### 6. Borealis Skybox (Footer)
+- WebGL aurora borealis shader with noise displacement
+- 4-color gradient mixing with radial wave patterns
+- Transparent overlay on deep navy footer
+
+## Tech Stack
+
+- **React 19** + TypeScript + Vite
+- **Three.js** + @react-three/fiber + @react-three/drei
+- **GSAP** with ScrollTrigger
+- **Lenis** smooth scroll
+- **Tailwind CSS 3.4**
+
+## Design System
+
+| Token | Value |
+|-------|-------|
+| Deep Navy | `#1E3240` |
+| Light Cream | `#F9F5E9` |
+| Teal Accent | `#387C7E` |
+| Warm Gold | `#D4A05A` |
+| Display Font | Playfair Display |
+| Body Font | Inter |
+
+## Getting Started
+
+```bash
+npm install
+npm run dev
 ```
 
-You can also install [eslint-plugin-react-x](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-x) and [eslint-plugin-react-dom](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-dom) for React-specific lint rules:
+## Build
 
-```js
-// eslint.config.js
-import reactX from 'eslint-plugin-react-x'
-import reactDom from 'eslint-plugin-react-dom'
-
-export default defineConfig([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
-      // Enable lint rules for React
-      reactX.configs['recommended-typescript'],
-      // Enable lint rules for React DOM
-      reactDom.configs.recommended,
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
+```bash
+npm run build
 ```
+
+## Project Structure
+
+```
+src/
+├── sections/
+│   ├── Navigation.tsx    # Sticky nav with scroll transition
+│   ├── Hero.tsx          # WebGL ink simulation hero
+│   ├── PrecisionProcess.tsx  # 3D scroll gallery
+│   ├── LanguageMatrix.tsx    # Animated text treadmill
+│   ├── Testimonials.tsx      # Radial card layout
+│   ├── Pricing.tsx       # Elastic accordion
+│   └── Footer.tsx        # Borealis aurora effect
+├── hooks/
+│   ├── useLenis.ts       # Smooth scroll hook
+│   └── useScrollProgress.ts
+└── App.tsx               # Root component
+```
+
+## Performance Notes
+
+- Ink simulation runs at 0.5x resolution for performance
+- Three.js instances are disposed on unmount
+- Lenis smooth scroll with 0.1 lerp for fluid feel
+- All scroll listeners use `{ passive: true }`
+
+## License
+
+Proprietary — Built for Certified Translations.
