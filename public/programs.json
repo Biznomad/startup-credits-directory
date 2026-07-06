@@ -1067,5 +1067,41 @@
     "url": "https://www.baseten.co/startup-program/",
     "eligibility": "AI-first, Seed-Series A, founded <5 yrs, net-new Baseten customer",
     "verified": "2026-07-05"
+  },
+  {
+    "id": 129,
+    "category": "Banking & Finance (Startup Perks)",
+    "name": "Stripe for Startups",
+    "credits": "Fee credits + financial support (amount varies by application)",
+    "url": "https://stripe.com/startups",
+    "eligibility": "Early-stage, venture-backed (institutional funding required)",
+    "verified": "2026-07-06"
+  },
+  {
+    "id": 130,
+    "category": "SaaS & Developer Tools",
+    "name": "Linear for Startups",
+    "credits": "Up to 6 months free (Basic or Business plan)",
+    "url": "https://linear.app/startups",
+    "eligibility": "Non-paying user, <50 employees, requires partner code from an official Linear partner (VC/accelerator/incubator)",
+    "verified": "2026-07-06"
+  },
+  {
+    "id": 131,
+    "category": "SaaS & Developer Tools",
+    "name": "Framer for Startups",
+    "credits": "1 year free Pro Plan (~$360 value)",
+    "url": "https://www.framer.com/startups/",
+    "eligibility": "Early-stage (pre-seed/seed), live website, business email, non-agency",
+    "verified": "2026-07-06"
+  },
+  {
+    "id": 132,
+    "category": "SaaS & Developer Tools",
+    "name": "Coda for Startups",
+    "credits": "6 months free Team plan (~$1,000 value)",
+    "url": "https://coda.io/solutions/team-size/startups/apply-startup-credit",
+    "eligibility": "<5 yrs old, <$10M raised, business domain, no prior paid Coda subscription",
+    "verified": "2026-07-06"
   }
 ]
