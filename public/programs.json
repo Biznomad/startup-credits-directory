@@ -1103,5 +1103,32 @@
     "url": "https://coda.io/solutions/team-size/startups/apply-startup-credit",
     "eligibility": "<5 yrs old, <$10M raised, business domain, no prior paid Coda subscription",
     "verified": "2026-07-06"
+  },
+  {
+    "id": 133,
+    "category": "SaaS & Developer Tools",
+    "name": "Help Scout for Startups",
+    "credits": "6 months free (Plus plan) or $600 in credit toward Standard/Plus/Pro",
+    "url": "https://www.helpscout.com/startups/",
+    "eligibility": "New Help Scout customer, incorporated tech startup <2 yrs old, <$1M ARR; bootstrapped OK, no VC required",
+    "verified": "2026-07-07"
+  },
+  {
+    "id": 134,
+    "category": "AI / ML / GPU Compute",
+    "name": "LangSmith for Startups",
+    "credits": "Build tier: discounted seat pricing; Scale tier: $10,000 in credits (2 yrs for YC startups)",
+    "url": "https://www.langchain.com/startups",
+    "eligibility": "Build: first-time customer, <$10M raised, $25K+ seed raised; Scale: Series A or earlier (up to $50M raised), backed by a premier LangChain VC partner",
+    "verified": "2026-07-07"
+  },
+  {
+    "id": 135,
+    "category": "SaaS & Developer Tools",
+    "name": "ClickUp for Startups",
+    "credits": "$3,000 in credit (upgraded Enterprise workspace)",
+    "url": "https://clickup.com/startup-program",
+    "eligibility": "Affiliated with an approved funding partner (accelerator/incubator/VC), <=Series B raised, incorporated <5 yrs ago, new to ClickUp or on Free Forever plan",
+    "verified": "2026-07-07"
   }
 ]
