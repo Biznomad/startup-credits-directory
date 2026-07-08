@@ -337,10 +337,10 @@
     "id": 40,
     "category": "AI / ML / GPU Compute",
     "name": "Databricks for Startups",
-    "credits": "Up to $200,000",
+    "credits": "Up to $200,000 combined credits across Databricks and Neon (relaunched June 2026 as consolidated offering)",
     "url": "https://www.databricks.com/product/startups",
-    "eligibility": "Data/AI startups",
-    "verified": "2026-07-05"
+    "eligibility": "Data/AI startups; apply directly or ask your investor",
+    "verified": "2026-07-08"
   },
   {
     "id": 41,
@@ -370,9 +370,10 @@
     "id": 44,
     "category": "SaaS & Developer Tools",
     "name": "Vercel AI Accelerator",
-    "credits": "$850K+ combined credits",
+    "credits": "Over $8,000,000 in combined credits (Vercel $1.2M, AWS $1M, Anthropic $600K, and more)",
     "url": "https://vercel.com/ai-accelerator",
-    "eligibility": "Pre-seed to Series A, AI product"
+    "eligibility": "6-week cohort program, 40 teams globally, pre-seed AI builders, must be a Vercel customer",
+    "verified": "2026-07-08"
   },
   {
     "id": 45,
@@ -547,9 +548,10 @@
     "id": 65,
     "category": "SaaS & Developer Tools",
     "name": "GitHub for Startups",
-    "credits": "Enterprise free",
+    "credits": "$10,000 in platform credits (12 months) toward Enterprise, Copilot, Advanced Security",
     "url": "https://github.com/enterprise/startups",
-    "eligibility": "Startups"
+    "eligibility": "Affiliated with a GitHub for Startups partner, funded up to Series B, new to GitHub Enterprise (not on Enterprise plan in past 6 months)",
+    "verified": "2026-07-08"
   },
   {
     "id": 66,
@@ -1130,5 +1132,32 @@
     "url": "https://clickup.com/startup-program",
     "eligibility": "Affiliated with an approved funding partner (accelerator/incubator/VC), <=Series B raised, incorporated <5 yrs ago, new to ClickUp or on Free Forever plan",
     "verified": "2026-07-07"
+  },
+  {
+    "id": 136,
+    "category": "Cloud Infrastructure",
+    "name": "Neon for Startups",
+    "credits": "Self-funded: up to $1,000 in Neon credits; VC-backed: up to $200,000 combined Neon + Databricks credits (12 months)",
+    "url": "https://neon.com/startups",
+    "eligibility": "Self-funded track: <$1M funding, early-stage/MVP; VC-backed track: $1M+ raised or recognized accelerator (e.g. YC)",
+    "verified": "2026-07-08"
+  },
+  {
+    "id": 137,
+    "category": "SaaS & Developer Tools",
+    "name": "Sentry for Startups",
+    "credits": "Up to $5,000 in credits (expires after 12 months) + priority support",
+    "url": "https://sentry.io/for/startups/apply/",
+    "eligibility": "Founded in last 2 years, raised less than $5M in VC funding, new to paying for Sentry",
+    "verified": "2026-07-08"
+  },
+  {
+    "id": 138,
+    "category": "SaaS & Developer Tools",
+    "name": "Convex for Startups",
+    "credits": "Up to 1 year free Convex Professional (no seat fees) + 30% off usage fees up to $30,000",
+    "url": "https://www.convex.dev/startups",
+    "eligibility": "Pre-seed to Series A, <$3M raised, <20 employees, <3 yrs old, live website/MVP",
+    "verified": "2026-07-08"
   }
 ]
