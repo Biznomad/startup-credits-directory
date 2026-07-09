@@ -1159,5 +1159,60 @@
     "url": "https://www.convex.dev/startups",
     "eligibility": "Pre-seed to Series A, <$3M raised, <20 employees, <3 yrs old, live website/MVP",
     "verified": "2026-07-08"
+  },
+  {
+    "id": 139,
+    "category": "SaaS & Developer Tools",
+    "name": "Statsig Startup Program (Be Significant)",
+    "credits": "$50,000+ in value - full Enterprise tier for 12 months, 1B events included",
+    "url": "https://www.statsig.com/startups",
+    "eligibility": "Founded <5 yrs ago, <$50M raised; best fit for startups with 25K+ MAU scaling fast",
+    "verified": "2026-07-09"
+  },
+  {
+    "id": 140,
+    "category": "SaaS & Developer Tools",
+    "name": "Kiro Startup Credits Program (via AWS)",
+    "credits": "Up to 1 year of Kiro Pro+ free, tiered (Starter/Growth/Scale); credits auto-applied to AWS account",
+    "url": "https://aws.amazon.com/startups/credits/kiro",
+    "eligibility": "Early-stage to Series A, VC-backed, business email matching startup domain, matching AWS Account ID, must NOT have active AWS Activate credits",
+    "status_note": "Application window April 7, 2026 - July 31, 2026",
+    "verified": "2026-07-09"
+  },
+  {
+    "id": 141,
+    "category": "SaaS & Developer Tools",
+    "name": "Typeform Startup Discount",
+    "credits": "Up to 75% off annual Business plan",
+    "url": "https://www.typeform.com/typeform-startups",
+    "eligibility": "Not a current paying Typeform customer, <$5M raised, <50 employees, founded within last 5 yrs",
+    "verified": "2026-07-09"
+  },
+  {
+    "id": 142,
+    "category": "SaaS & Developer Tools",
+    "name": "Customer.io Startup Program",
+    "credits": "Up to 12 months free, including up to 30,000 customer profiles",
+    "url": "https://customer.io/solutions/startups",
+    "eligibility": "<$10M total funding raised, never previously a Customer.io customer, contact lists obtained organically",
+    "verified": "2026-07-09"
+  },
+  {
+    "id": 143,
+    "category": "SaaS & Developer Tools",
+    "name": "Braze for Startups",
+    "credits": "Free access (duration unspecified on official page)",
+    "url": "https://www.braze.com/braze-for-startups",
+    "eligibility": "Primarily VC-backed startups via Braze's investor partners; not self-serve, requires \"Connect with a Startup Expert\" contact form to confirm eligibility",
+    "verified": "2026-07-09"
+  },
+  {
+    "id": 144,
+    "category": "SaaS & Developer Tools",
+    "name": "Vanta for Startups",
+    "credits": "$1,000 discount for new customers",
+    "url": "https://www.vanta.com/solutions/startup",
+    "eligibility": "Targeted at venture-backed/YC-backed startups; new customers only; not self-serve (funnels to sales demo), precise thresholds not published",
+    "verified": "2026-07-09"
   }
 ]
