@@ -1214,5 +1214,23 @@
     "url": "https://www.vanta.com/solutions/startup",
     "eligibility": "Targeted at venture-backed/YC-backed startups; new customers only; not self-serve (funnels to sales demo), precise thresholds not published",
     "verified": "2026-07-09"
+  },
+  {
+    "id": 145,
+    "category": "SaaS & Developer Tools",
+    "name": "Replit for Startups",
+    "credits": "Up to $25,000 in Replit credits (tiered: full amount if backed by a listed Select Partner fund/accelerator; free Replit Pro via broader Partner Network; can still apply if unlisted)",
+    "url": "https://replit.com/startups",
+    "eligibility": "Must apply with a company email (personal Gmail/Outlook addresses rejected); manually reviewed",
+    "verified": "2026-07-10"
+  },
+  {
+    "id": 146,
+    "category": "Cloud Infrastructure",
+    "name": "Turso for Startups",
+    "credits": "Database usage credits (exact amount not publicly disclosed, set upon acceptance)",
+    "url": "https://turso.tech/startups",
+    "eligibility": "Venture-backed with at least one completed funding round; early-stage or actively scaling",
+    "verified": "2026-07-10"
   }
 ]
