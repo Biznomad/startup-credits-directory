@@ -1242,5 +1242,14 @@
     "url": "https://cohere.com/startup-program-application",
     "eligibility": "Series B funded or earlier",
     "verified": "2026-07-11"
+  },
+  {
+    "id": 148,
+    "category": "SaaS & Developer Tools",
+    "name": "Attio for Startups",
+    "credits": "80% off Annual Pro Plan (year 1), 50% off if $5M+ raised but pre-Series B; 30% off year 2; plus $5,000 credit via NachoNacho and partner perks (e.g. months free of Notion/Linear)",
+    "url": "https://attio.com/startups",
+    "eligibility": "Venture-backed or affiliated with an Attio startup partner (VC/accelerator); apply within 90 days of account signup",
+    "verified": "2026-07-12"
   }
 ]
