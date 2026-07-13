@@ -347,9 +347,10 @@
     "id": 41,
     "category": "AI / ML / GPU Compute",
     "name": "Snowflake for Startups",
-    "credits": "Credits",
+    "credits": "Free usage on first contract (amount not published); separate competitive Startup Challenge/Accelerator offers up to $1M investment",
     "url": "https://www.snowflake.com/en/why-snowflake/startup-program/",
-    "eligibility": "Data startups"
+    "eligibility": "Data-core, AI/ML, or large/complex-dataset startups; register interest via contact form",
+    "verified": "2026-07-13"
   },
   {
     "id": 42,
@@ -396,17 +397,19 @@
     "id": 47,
     "category": "SaaS & Developer Tools",
     "name": "Redis for Startups",
-    "credits": "Credits",
+    "credits": "Free Redis for 6 months (usage limits apply)",
     "url": "https://redis.io/startups/",
-    "eligibility": "Startups"
+    "eligibility": "Startups; official page does not publish a fixed dollar credit figure",
+    "verified": "2026-07-13"
   },
   {
     "id": 48,
     "category": "SaaS & Developer Tools",
     "name": "PlanetScale for Startups",
-    "credits": "Credits",
+    "credits": "Migration credits, case-by-case amount (no fixed published figure)",
     "url": "https://planetscale.com/startups",
-    "eligibility": "Startups"
+    "eligibility": "Evaluated individually; contact PlanetScale about migration options",
+    "verified": "2026-07-13"
   },
   {
     "id": 49,
