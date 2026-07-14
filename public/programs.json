@@ -133,11 +133,12 @@
   {
     "id": 16,
     "category": "Cloud Infrastructure",
-    "name": "Backblaze Startup Program",
-    "credits": "Up to $100,000 in B2 Storage credits",
+    "name": "Backblaze Flamethrower Startup Program",
+    "credits": "Up to $100,000 in Backblaze B2 Cloud Storage credits",
     "url": "https://www.backblaze.com/startups",
-    "eligibility": "Early-stage, explicitly bootstrapped-friendly (no VC required)",
-    "verified": "2026-07-05"
+    "eligibility": "Typically <7 yrs old, <100 employees; venture-backed, accelerator-backed, or bootstrapped; data-intensive products (AI/ML, video/media, gaming, analytics)",
+    "status_note": "Rebranded as \"Backblaze Flamethrower\" (relaunched Feb 2026); same URL and credit amount as before.",
+    "verified": "2026-07-14"
   },
   {
     "id": 17,
@@ -162,9 +163,10 @@
     "id": 19,
     "category": "AI / ML / GPU Compute",
     "name": "Modal Startups",
-    "credits": "Credits (amount varies)",
+    "credits": "Thousands of free GPU credits (exact amount not publicly disclosed; tiered by funding stage)",
     "url": "https://modal.com/startups",
-    "eligibility": "AI startups"
+    "eligibility": "Seed-Series A: VC funding from Modal's partner network, or >$1M raised from any fund. Series B+: >$30M raised or post-Series B via partner-network VC. Must be new to Modal.",
+    "verified": "2026-07-14"
   },
   {
     "id": 20,
@@ -1254,5 +1256,14 @@
     "url": "https://attio.com/startups",
     "eligibility": "Venture-backed or affiliated with an Attio startup partner (VC/accelerator); apply within 90 days of account signup",
     "verified": "2026-07-12"
+  },
+  {
+    "id": 149,
+    "category": "AI / ML / GPU Compute",
+    "name": "Groq for Startups",
+    "credits": "$10,000 in inference credits (expire 90 days after being awarded)",
+    "url": "https://groq.com/groq-for-startups",
+    "eligibility": "Early-stage startups; eligibility determined at Groq's sole discretion",
+    "verified": "2026-07-14"
   }
 ]
