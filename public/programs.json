@@ -1265,5 +1265,14 @@
     "url": "https://groq.com/groq-for-startups",
     "eligibility": "Early-stage startups; eligibility determined at Groq's sole discretion",
     "verified": "2026-07-14"
+  },
+  {
+    "id": 150,
+    "category": "SaaS & Developer Tools",
+    "name": "Temporal Cloud for Startups",
+    "credits": "$6,000 in Temporal Cloud credits",
+    "url": "https://temporal.io/startup",
+    "eligibility": "Funded startups that have raised $30M or less; self-serve application",
+    "verified": "2026-07-15"
   }
 ]
