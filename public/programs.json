@@ -314,9 +314,10 @@
     "id": 37,
     "category": "AI / ML / GPU Compute",
     "name": "OpenRouter Startup",
-    "credits": "$5K universal credits (300+ models)",
+    "credits": "Up to $5,000 in universal inference credits (0% processing fees) + processing-fee waiver for 12 months; credits expire 6 months after issuance",
     "url": "https://openrouter.ai/startup-program",
-    "eligibility": "Startups"
+    "eligibility": "Pre-Series B AI-native startups, referred by an approved OpenRouter partner, <$500 lifetime spend on OpenRouter, first-time applicants",
+    "verified": "2026-07-16"
   },
   {
     "id": 38,
@@ -563,9 +564,10 @@
     "id": 66,
     "category": "SaaS & Developer Tools",
     "name": "GitLab for Startups",
-    "credits": "Credits",
+    "credits": "Seed stage (<=$5M funding): free Ultimate license yr 1 (up to 20 seats), 50% off yr 2. Early stage (Series A/B, <=$20M funding): 50% off yr 1, 25% off yr 2 (up to 20 users)",
     "url": "https://about.gitlab.com/solutions/startups/",
-    "eligibility": "Startups"
+    "eligibility": "Externally funded companies only (self-funded not currently eligible), new GitLab customers, funding validated via Crunchbase/Pitchbook/VC/accelerator documentation",
+    "verified": "2026-07-16"
   },
   {
     "id": 67,
