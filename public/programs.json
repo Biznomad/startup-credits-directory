@@ -47,10 +47,12 @@
   {
     "id": 6,
     "category": "Cloud Infrastructure",
-    "name": "DigitalOcean Hatch",
-    "credits": "Up to $100,000",
-    "url": "https://do.co/hatch",
-    "eligibility": "Early-stage, 5 biz day review"
+    "name": "DigitalOcean Startups (formerly Hatch)",
+    "credits": "$10,000/month limit on credits for 12 months (no fixed total published; awarded via approved partners), plus 15 months of free Standard-tier support",
+    "url": "https://www.digitalocean.com/hatch/",
+    "eligibility": "Raised $10M or less, company website + business email required, registered DigitalOcean team account; AI-native startups prioritized, service-based/consulting startups not eligible",
+    "status_note": "Rebranded from \"DigitalOcean Hatch\" to \"DigitalOcean Startups\"; previous flat \"$100,000\" figure is no longer published on the official page.",
+    "verified": "2026-07-17"
   },
   {
     "id": 7,
@@ -1276,5 +1278,14 @@
     "url": "https://temporal.io/startup",
     "eligibility": "Funded startups that have raised $30M or less; self-serve application",
     "verified": "2026-07-15"
+  },
+  {
+    "id": 151,
+    "category": "SaaS & Developer Tools",
+    "name": "Superhuman Mail for Startups",
+    "credits": "1 year free Business Plan (up to 5 seats)",
+    "url": "https://superhuman.com/products/mail/startups",
+    "eligibility": "Raised no more than $10M in equity, fewer than 50 employees, affiliated with a Superhuman Approved Startup Partner (accelerator/investor/incubator), not an existing Superhuman Mail customer",
+    "verified": "2026-07-17"
   }
 ]
