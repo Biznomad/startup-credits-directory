@@ -1287,5 +1287,23 @@
     "url": "https://superhuman.com/products/mail/startups",
     "eligibility": "Raised no more than $10M in equity, fewer than 50 employees, affiliated with a Superhuman Approved Startup Partner (accelerator/investor/incubator), not an existing Superhuman Mail customer",
     "verified": "2026-07-17"
+  },
+  {
+    "id": 152,
+    "category": "AI / ML / GPU Compute",
+    "name": "E2B for Startups",
+    "credits": "$20,000 in usage credits + Pro Tier membership (up to 100 concurrent sandboxes, 24-hour sessions)",
+    "url": "https://e2b.dev/startups",
+    "eligibility": "Raised less than $5M in funding, company less than 3 years old, first-time E2B users; building AI agents/sandboxed compute (open-source or proprietary)",
+    "verified": "2026-07-18"
+  },
+  {
+    "id": 153,
+    "category": "AI / ML / GPU Compute",
+    "name": "Phala Startup Program",
+    "credits": "Up to $1,000 in cloud credits (Confidential VM, GPU TEE, private model API usage) + architecture review and launch support",
+    "url": "https://phala.com/startup-program",
+    "eligibility": "Pre-seed to Series A, building private/verifiable AI products (confidential inference, verifiable agents, or regulated-data applications); no prior TEE experience required",
+    "verified": "2026-07-18"
   }
 ]
