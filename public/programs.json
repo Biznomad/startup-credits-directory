@@ -103,10 +103,11 @@
     "id": 12,
     "category": "Cloud Infrastructure",
     "name": "Scaleway Founders",
-    "credits": "EUR 1,000",
+    "credits": "EUR 1,000 (Founders) / EUR 9,000 over 6 mo (Early Stage) / EUR 36,000 over 12 mo (Growth Stage)",
     "url": "https://www.scaleway.com/en/startup-program/",
-    "eligibility": "<5 yrs old, <50 employees",
-    "verified": "2026-07-05"
+    "eligibility": "<5 yrs old, <50 employees, not yet a Scaleway client",
+    "status_note": "Official page publishes three tiers (Founders/Early Stage/Growth Stage); previous entry only reflected the base Founders tier.",
+    "verified": "2026-07-19"
   },
   {
     "id": 13,
@@ -1305,5 +1306,23 @@
     "url": "https://phala.com/startup-program",
     "eligibility": "Pre-seed to Series A, building private/verifiable AI products (confidential inference, verifiable agents, or regulated-data applications); no prior TEE experience required",
     "verified": "2026-07-18"
+  },
+  {
+    "id": 154,
+    "category": "AI / ML / GPU Compute",
+    "name": "Braintrust for Startups",
+    "credits": "6-12 months of Braintrust Pro plan access ($249/mo in platform credits, plus 5GB processed data, 50K scores, 30-day retention), exclusive office hours, executive event invites",
+    "url": "https://www.braintrust.dev/startups",
+    "eligibility": "New customers at Series A or earlier; $100K+ funding gets 6 months, startups funded by partner VCs (a16z, Accel, Greylock, ICONIQ, Kleiner Perkins) get 12 months",
+    "verified": "2026-07-19"
+  },
+  {
+    "id": 155,
+    "category": "SaaS & Developer Tools",
+    "name": "Beefree SDK Startup Program",
+    "credits": "90% discount for 12 months on Core ($100/mo) or Superpowers ($250/mo) plans, plus priority support and access to 2,000+ email/page templates",
+    "url": "https://developers.beefree.io/startup-program",
+    "eligibility": "Founded <3 yrs ago, <$5M total funding raised (exceptions considered on application)",
+    "verified": "2026-07-19"
   }
 ]
