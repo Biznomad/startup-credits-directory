@@ -686,9 +686,11 @@
     "id": 80,
     "category": "HR & Payroll",
     "name": "Deel for Startups",
-    "credits": "Free HR (<200 employees)",
+    "credits": "Free U.S. Payroll for founders for life; first 5 seats free for life",
     "url": "https://www.deel.com/segments/startups/",
-    "eligibility": "<200 employees"
+    "eligibility": "Venture-backed, must have raised at least $500K in funding (verifiable on Crunchbase)",
+    "status_note": "Official page now describes a specific \"free payroll for founders for life\" offer with a $500K funding threshold, replacing the previously generic \"<200 employees\" description.",
+    "verified": "2026-07-21"
   },
   {
     "id": 81,
@@ -1324,5 +1326,23 @@
     "url": "https://developers.beefree.io/startup-program",
     "eligibility": "Founded <3 yrs ago, <$5M total funding raised (exceptions considered on application)",
     "verified": "2026-07-19"
+  },
+  {
+    "id": 156,
+    "category": "SaaS & Developer Tools",
+    "name": "Apollo for Startups",
+    "credits": "50% off Basic or Professional plan for 1 year (up to 5 seats)",
+    "url": "https://www.apollo.io/startups",
+    "eligibility": "<20 employees, no existing Apollo subscription, valid company domain; affiliation with an Apollo ecosystem partner (VC/accelerator/community) preferred but not required to apply",
+    "verified": "2026-07-21"
+  },
+  {
+    "id": 157,
+    "category": "SaaS & Developer Tools",
+    "name": "Fillout Startup Discount",
+    "credits": "50% off any paid plan for 1 year",
+    "url": "https://www.fillout.com/help/startup-discount",
+    "eligibility": "<5 yrs old, privately held, <10 employees, new Fillout customer",
+    "verified": "2026-07-21"
   }
 ]
