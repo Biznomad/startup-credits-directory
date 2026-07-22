@@ -1344,5 +1344,24 @@
     "url": "https://www.fillout.com/help/startup-discount",
     "eligibility": "<5 yrs old, privately held, <10 employees, new Fillout customer",
     "verified": "2026-07-21"
+  },
+  {
+    "id": 158,
+    "category": "AI / ML / GPU Compute",
+    "name": "Apodex Frontier Program",
+    "credits": "Complimentary compute credits (up to $100,000/month for strategic partners) + full Discover Mode access + dedicated engineering support",
+    "url": "https://www.apodex.com/frontier-program",
+    "eligibility": "Formally registered academic institutions, research institutes, or startups with a defined research focus in complex multi-step reasoning, evidence synthesis, or deep scientific discovery; requires verifiable domain expertise (Google Scholar/GitHub/institutional website); excludes pure commercial use (content generation, marketing, customer service) and unaffiliated individuals",
+    "status_note": "Newly launched program (announced 2026-07-21); niche fit for deep-tech/scientific-research startups, not general-purpose commercial startups.",
+    "verified": "2026-07-22"
+  },
+  {
+    "id": 159,
+    "category": "SaaS & Developer Tools",
+    "name": "Drata for Startups (Startup Stack)",
+    "credits": "25% off first Drata contract",
+    "url": "https://drata.com/partner/startup-program",
+    "eligibility": "Must have an investor on Drata's participating VC/firm list (or request investor be added); available at all funding stages for first Drata contract",
+    "verified": "2026-07-22"
   }
 ]
